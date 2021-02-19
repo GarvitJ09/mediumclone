@@ -1,0 +1,23 @@
+.Card{
+    padding-top: 20px;
+    display:flex;
+    grid-template-rows: 1fr 1fr auto;
+    padding-left: 10%;
+    cursor: pointer;
+}
+p{
+    margin-right: 20px;
+    background-color: white;
+    width: 450px;;
+}
+span{
+    font-family: 'Akaya Kanadaka', cursive;
+    font-weight: 400;
+}
+#img{
+    width:20px;
+    vertical-align:middle;
+    margin: 10px;
+    border-radius: 25%;
+    
+}

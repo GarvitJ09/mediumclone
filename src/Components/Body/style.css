@@ -1,0 +1,25 @@
+#btn{
+  height: 35px;
+    margin-top: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color:  black;
+    background-color: #ff9900;
+    border-radius: 5px;
+}
+#main  > div {
+    box-sizing: border-box; 
+    display: inline-block;  
+  }
+  .content{
+    padding-left: 10%;
+}
+  .content{
+    margin-top: -50px;
+    width:40%;
+    font-size:20px;
+  }
+  .logo{
+      margin-right: 20%;
+      float:right;
+  }
